@@ -1,0 +1,11 @@
+@using System.Linq;
+
+@model SehirTanitim.Models.District
+<h2>Yeni İlçe Ekle</h2>
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x => x.Name)
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control", required = "required" })
+    <br />
+    <button type="submit" class="btn btn-success">Ekle</button>
+}

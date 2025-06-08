@@ -1,0 +1,16 @@
+@model SehirTanitim.Models.TouristPlace
+<h2>Yeni Turistik Yer Ekle</h2>
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x => x.Name)
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control", required = "required" })
+
+    @Html.LabelFor(x => x.Description)
+    @Html.TextAreaFor(x => x.Description, new { @class = "form-control", required = "required" })
+
+    @Html.LabelFor(x => x.ImageUrl)
+    @Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control", required = "required" })
+
+    <br />
+    <button type="submit" class="btn btn-success">Ekle</button>
+}

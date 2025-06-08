@@ -1,0 +1,12 @@
+@using System.Linq;
+
+@model SehirTanitim.Models.District
+<h2>İlçeyi Güncelle</h2>
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.Id)
+    @Html.LabelFor(x => x.Name)
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control", required = "required" })
+    <br />
+    <button type="submit" class="btn btn-warning">Güncelle</button>
+}

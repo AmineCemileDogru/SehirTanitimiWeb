@@ -1,0 +1,15 @@
+@using System.Linq;
+
+@model SehirTanitim.Models.Population
+<h2>Yeni Nüfus Kaydı Ekle</h2>
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x => x.Year)
+    @Html.TextBoxFor(x => x.Year, new { @class = "form-control", required = "required", type = "number" })
+
+    @Html.LabelFor(x => x.PopulationCount)
+    @Html.TextBoxFor(x => x.PopulationCount, new { @class = "form-control", required = "required", type = "number" })
+
+    <br />
+    <button type="submit" class="btn btn-success">Ekle</button>
+}

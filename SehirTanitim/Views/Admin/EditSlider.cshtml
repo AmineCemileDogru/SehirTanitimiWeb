@@ -1,0 +1,12 @@
+@using System.Linq;
+
+@model SehirTanitim.Models.SliderImage
+<h2>Slider Resmini Güncelle</h2>
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.Id)
+    @Html.LabelFor(x => x.ImageUrl)
+    @Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control", required = "required" })
+    <br />
+    <button type="submit" class="btn btn-warning">Güncelle</button>
+}

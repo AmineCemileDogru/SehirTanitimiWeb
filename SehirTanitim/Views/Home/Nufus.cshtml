@@ -1,0 +1,10 @@
+@using System.Linq;
+@model List<SehirTanitim.Models.Population>
+<h2>Nüfus Dağılımı</h2>
+<table class="table table-bordered">
+    <tr><th>Yıl</th><th>Nüfus</th></tr>
+    @foreach (var item in Model)
+    {
+        <tr><td>@item.Year</td><td>@item.PopulationCount</td></tr>
+    }
+</table>

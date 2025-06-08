@@ -1,0 +1,19 @@
+@using System.Linq;
+
+@model List<SehirTanitim.Models.Population>
+<h2>Nüfus Bilgileri</h2>
+<table class="table table-bordered">
+    <tr><th>ID</th><th>Yıl</th><th>Nüfus</th><th>İşlemler</th></tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Year</td>
+            <td>@item.PopulationCount</td>
+            <td>
+                <a href="#" class="btn btn-warning">Düzenle</a>
+                <a href="#" class="btn btn-danger">Sil</a>
+            </td>
+        </tr>
+    }
+</table>

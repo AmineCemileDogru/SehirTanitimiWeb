@@ -1,0 +1,28 @@
+﻿# Build ve derleme klasörleri
+bin/
+obj/
+packages/
+
+# VS ve VS Code klasörleri
+.vs/
+.vscode/
+
+# Kullanıcı ve oturum dosyaları
+*.user
+*.suo
+
+# Log dosyaları
+*.log
+
+# Visual Studio index dosyaları
+*.vsidx
+
+# Local veritabanı dosyaları
+*.dbmdl
+*.mdf
+*.ldf
+*.bak
+
+# App_Data içindeki veritabanı dosyaları
+App_Data/*.mdf
+App_Data/*.ldf

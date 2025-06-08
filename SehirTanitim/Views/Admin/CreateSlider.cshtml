@@ -1,0 +1,11 @@
+@using System.Linq;
+
+@model SehirTanitim.Models.SliderImage
+<h2>Yeni Slider Resmi Ekle</h2>
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x => x.ImageUrl)
+    @Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control", required = "required" })
+    <br />
+    <button type="submit" class="btn btn-success">Ekle</button>
+}

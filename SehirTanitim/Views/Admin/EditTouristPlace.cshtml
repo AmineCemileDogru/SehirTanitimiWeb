@@ -1,0 +1,19 @@
+@using System.Linq;
+
+@model SehirTanitim.Models.TouristPlace
+<h2>Turistik Yeri Güncelle</h2>
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.Id)
+    @Html.LabelFor(x => x.Name)
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control", required = "required" })
+
+    @Html.LabelFor(x => x.Description)
+    @Html.TextAreaFor(x => x.Description, new { @class = "form-control", required = "required" })
+
+    @Html.LabelFor(x => x.ImageUrl)
+    @Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control", required = "required" })
+
+    <br />
+    <button type="submit" class="btn btn-warning">Güncelle</button>
+}

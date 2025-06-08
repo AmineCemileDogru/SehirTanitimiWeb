@@ -1,0 +1,20 @@
+@using System.Linq;
+@model SehirTanitim.Models.User
+@{
+    ViewBag.Title = "Kayıt Ol";
+}
+<h2>Kayıt Ol</h2>
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x => x.Username)
+    @Html.TextBoxFor(x => x.Username, new { @class = "form-control", required = "required" })
+
+    @Html.LabelFor(x => x.Email)
+    @Html.TextBoxFor(x => x.Email, new { @class = "form-control", required = "required", type = "email" })
+
+    @Html.LabelFor(x => x.Password)
+    @Html.PasswordFor(x => x.Password, new { @class = "form-control", required = "required" })
+
+    <br />
+    <button type="submit" class="btn btn-success">Kayıt Ol</button>
+}

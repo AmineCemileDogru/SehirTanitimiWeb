@@ -1,0 +1,170 @@
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\obj\Debug\SehirTanitim.csproj.AssemblyReference.cache
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\obj\Debug\SehirTanitim.csproj.CoreCompileInputs.cache
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\SehirTanitim.dll.config
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\SehirTanitim.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\SehirTanitim.pdb
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\csc.exe
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\csc.exe.config
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\csc.rsp
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\csi.exe
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\csi.exe.config
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\csi.rsp
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.AppContext.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Console.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.IO.Compression.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Net.Http.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.ValueTuple.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\vbc.exe
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\vbc.exe.config
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\vbc.rsp
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Antlr3.Runtime.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\EntityFramework.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\EntityFramework.SqlServer.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Newtonsoft.Json.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Helpers.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Mvc.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Optimization.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Razor.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.WebPages.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\WebGrease.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\EntityFramework.xml
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\EntityFramework.SqlServer.xml
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Helpers.xml
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Mvc.xml
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Optimization.xml
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Razor.xml
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.WebPages.xml
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Newtonsoft.Json.xml
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Antlr3.Runtime.pdb
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\obj\Debug\SehirTan.2E5F533D.Up2Date
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\obj\Debug\SehirTanitim.dll
+C:\Users\Amine\OneDrive - subu.edu.tr\Masaüstü\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\obj\Debug\SehirTanitim.pdb
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\SehirTanitim.dll.config
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\SehirTanitim.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\SehirTanitim.pdb
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\csc.exe
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\csc.exe.config
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\csc.rsp
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\csi.exe
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\csi.exe.config
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\csi.rsp
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.AppContext.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Console.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.IO.Compression.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Net.Http.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.ValueTuple.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\vbc.exe
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\vbc.exe.config
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\vbc.rsp
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Antlr3.Runtime.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\EntityFramework.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\EntityFramework.SqlServer.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Newtonsoft.Json.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Data.SqlClient.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Helpers.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Mvc.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Optimization.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Razor.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.WebPages.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\WebGrease.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\EntityFramework.xml
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\EntityFramework.SqlServer.xml
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Data.SqlClient.xml
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Helpers.xml
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Mvc.xml
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Optimization.xml
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.Razor.xml
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.WebPages.xml
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Newtonsoft.Json.xml
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Antlr3.Runtime.pdb
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\obj\Debug\SehirTanitim.csproj.AssemblyReference.cache
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\obj\Debug\SehirTanitim.Migrations.InitialCreate.resources
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\obj\Debug\SehirTanitim.csproj.GenerateResource.cache
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\obj\Debug\SehirTanitim.csproj.CoreCompileInputs.cache
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\obj\Debug\SehirTan.2E5F533D.Up2Date
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\obj\Debug\SehirTanitim.dll
+C:\Users\Amine\source\repos\SehirTanitimEskisehir_with_auth\SehirTanitim\SehirTanitim\obj\Debug\SehirTanitim.pdb
